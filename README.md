@@ -2,6 +2,8 @@
 
 1. [实现 range 迭代器，可以遍历数组或者对象的键值](problems/01.md)
 
+你可以在 [Issues](https://github.com/hayeah/js-gym/issues) 发你的题目。
+
 # 提交答案
 
 把 [01.md](problems/01.md) 的答案放在 [answers/01](answers/01) 这个路径，文件用你的 GitHub 用户名登记。
