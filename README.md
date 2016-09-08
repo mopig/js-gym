@@ -8,7 +8,7 @@
 
 我用户名是 hayeah，所以第一题的答案放在 [answers/01/hayeah.js](answers/01/hayeah.js)。
 
-提交 PR 分享你的代码。
+提交 PR 分享你的代码。:shipit:
 
 # 讨论群
 
