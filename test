@@ -1,0 +1,8 @@
+#!/bin/bash
+files=`git diff --name-only HEAD^`
+
+for file in $files; do
+  if [[ $file =~ "answers\/[0-9]+\/.*\.js"]]; then
+    echo yeah
+  fi
+done
